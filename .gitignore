@@ -1,2 +1,5 @@
 /app/app/__pycache__/
 /app/shop/__pycache__/
+/app/shop/migrations/__pycache__/0001_initial.cpython-39.pyc
+/app/shop/migrations/__pycache__/0002_auto_20211007_1808.cpython-39.pyc
+/app/db.sqlite3
